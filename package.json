@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-shell-exec",
+  "version": "0.1.0",
+  "description": "A ShellExec cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-shell-exec",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankragujevic/cordova-plugin-shell-exec.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Milan Kragujevic",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/cordova-plugin-shell-exec/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/cordova-plugin-shell-exec#readme"
+}
